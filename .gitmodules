@@ -1,0 +1,3 @@
+[submodule "1-Introduction/2-history-of-ML/ml-timeline"]
+	path = 1-Introduction/2-history-of-ML/ml-timeline
+	url = git@github.com:Vin-Cento/ml-timeline
